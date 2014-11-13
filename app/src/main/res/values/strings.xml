@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">Settings</string>
+    <string name="export_button">Export...</string>
+    <string name="reset_button">Reset</string>
+    <string name="reset_confirmation">Reset all counters to 0?</string>
+    <string name="add_counter_button">Add</string>
+    <string name="add_counter_dialog">Add New Counter</string>
+    <string name="add_counter_dialog_pos">Add</string>
+    <string name="add_counter_dialog_neg">Cancel</string>
+    <string name="counter_name_hint">Counter Name</string>
+    <string name="counter_count_label">Count: </string>
+    <string name="export_failed">Export failed!</string>
+    <string name="save_failed">Save failed!</string>
+    <string name="reset">Reset</string>
+    <string name="edit_counter_dialog">Edit Counter</string>
+    <string name="edit_counter_dialog_pos">Edit</string>
+    <string name="edit_counter_dialog_neg">Cancel</string>
+    <string name="remove">Remove</string>
+    <string name="save_button">Save...</string>
+
+</resources>
